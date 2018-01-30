@@ -10,27 +10,15 @@
         "samples": []
       },
       {
-        "name": "AMAZON.NoIntent",
-        "samples": []
-      },
-      {
         "name": "AMAZON.StopIntent",
         "samples": []
-      },
-      {
-        "name": "AMAZON.YesIntent",
-        "samples": [
-          "sure"
-        ]
       },
       {
         "name": "howmany",
         "samples": [
           "how many words it can make",
           "how many words it has",
-          "how many words can it make",
-          "how many words can you make",
-          "how many words do you have"
+          "how many words can it make"
         ],
         "slots": []
       },
